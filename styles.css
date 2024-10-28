@@ -1,0 +1,21 @@
+<style>
+        .header-container {
+        background-color: forestgreen;
+    }
+    h1 {
+        color: white;
+    }
+    .nav-container {
+        background-color: forestgreen;
+    }
+    .nav-links {
+        color: white;
+    }
+    .nav ul{
+        color: black;
+        background-color: ghostwhite;
+    }
+    footer{
+        background-color: forestgreen;
+    }
+    </style>
